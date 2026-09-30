@@ -1,0 +1,15 @@
+# IntelliJ IDEA
+.idea/
+**/.idea/
+
+# Maven
+target/
+**/target/
+
+# Node.js
+node_modules/
+**/node_modules/
+
+# User uploaded profile pictures
+uploads/*
+!uploads/.gitkeep
