@@ -1,0 +1,12 @@
+# IntelliJ IDEA
+.idea/
+**/.idea/
+
+# Maven
+**/target/
+
+# Node.js dependencies
+**/node_modules/
+
+# User uploaded profile pictures
+friendsplus/friendsplus/uploads/*
